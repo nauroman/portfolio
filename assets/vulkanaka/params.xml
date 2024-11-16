@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<game name='vulkanaka'>
+ <params>
+   <param name='pseudo'>Archi</param>
+   <param name='mode'>easy</param>
+   <param name='superboard'>false</param>
+   <param name='helmet'>false</param>
+   <param name='vulcan_length'>200</param>
+   <param name='banan_health'>10</param>
+   <param name='rock_damage'>15</param>
+   <param name='tree_damage'>30</param>
+   <param name='helmet_rock_damage'>0</param>
+   <param name='helmet_tree_damage'>25</param>
+   <param name='fall_damage'>25</param>
+   <param name='helmet_fall_damage'>0</param>
+   <param name='hook_points'>100</param>
+   <param name='spin_points'>25</param>
+ </params>
+</game>
+</xml>

@@ -1,0 +1,66 @@
+﻿
+
+
+<synonyms lang1="en" lang2="ru">
+
+	<synonym ru1="Вы" ru2="ты" />
+	<synonym ru1="Вас" ru2="тебя" />
+	<synonym ru1="кот" ru2="кошка" />
+	<synonym ru1="тут" ru2="здесь" />
+	<synonym ru1="около" ru2="возле" />
+	<synonym ru1="лежат" ru2="стоят" ru3="находятся" />
+	<synonym ru1="лежит" ru2="стоит" ru3="находится" />
+	
+	<synonym ru1="1" ru2="один" ru3="раз"  ru4="первый" />
+	<synonym ru1="2" ru2="два" ru3="второй" />
+	<synonym ru1="3" ru2="три" ru3="третий" />
+	<synonym ru1="4" ru2="четыре" ru3="четвёртый" />
+	<synonym ru1="5" ru2="пять" ru3="пятый" />
+	<synonym ru1="6" ru2="шесть" ru3="шестой" />
+	<synonym ru1="7" ru2="семь" ru3="седьмой" />
+	<synonym ru1="8" ru2="восемь" ru3="восьмой" />
+	<synonym ru1="9" ru2="девять" ru3="девятый" />
+	<synonym ru1="0" ru2="ноль" ru3="нуль" />
+
+	<synonym en1="1" en2="one" />
+	<synonym en1="2" en2="two" />
+	<synonym en1="3" en2="three" />
+	<synonym en1="4" en2="four" />
+	<synonym en1="5" en2="five" />
+	<synonym en1="6" en2="six" />
+	<synonym en1="7" en2="seven" />
+	<synonym en1="8" en2="eight" />
+	<synonym en1="9" en2="nine" />
+	<synonym en1="0" en2="zerro" en3="o" />
+	
+	<synonym en1="am" en2="'m" />
+	<synonym en1="this" en2="it" />
+	<synonym en1="hello" en2="hi" en3="hallo" />
+	
+	<synonym en1="have" en2="'ve" en3="got" en4="haven"/>
+	<synonym en1="will" en2="'ll" />
+	<synonym en1="shall" en2="'ll" />
+	<synonym en1="not" en2="'t" />
+	<synonym en1="is" en2="'s" en3="isn"/>
+	<synonym en1="are" en2="'re" en3="aren" />
+	<synonym en1="would" en2="'d" en3="wouldn"/>
+	<synonym en1="has" en2="hasn" />
+	<synonym en1="did" en2="didn" />
+	<synonym en1="do" en2="don" />
+	<synonym en1="does" en2="doesn" />
+	<synonym en1="was" en2="wasn" />
+
+	<synonym en1="big" en2="large" />
+	<synonym en1="small" en2="little" />
+	<synonym en1="movie" en2="cinema" en3="film" en4="pictures" />
+	<synonym en1="luggage" en2="baggage" />
+	<synonym en1="at" en2="near" />
+	<synonym en1="telephone" en2="phone" />
+	<synonym en1="examination" en2="exam" />
+	<synonym en1="examinations" en2="exams" />
+	<synonym en1="shut" en2="close" />
+	<synonym en1="refrigerator" en2="fridge" en3="cooler" />
+	
+	
+</synonyms>
+

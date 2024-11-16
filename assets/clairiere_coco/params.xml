@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<game name='clairiere coco'>
+ <params>
+   <param name='pseudo'>Archi</param>
+   <param name='mode'>easy</param>
+   <param name='quality'>medium</param>
+   <param name='max_rhino'>5</param>
+   <param name='max_trees'>15</param>
+   <param name='helmet'>true</param>
+   <param name='max_helmet_time'>500</param>
+   <param name='yelis_down_speed'>0.043</param>
+   <param name='kacoo_reload_time'>15</param>
+   <param name='banan_health'>10</param>
+   <param name='coco_damage'>10</param>
+   <param name='helmet_coco_damage'>5</param>
+   <param name='red_coco_damage'>20</param>
+   <param name='helmet_red_coco_damage'>5</param>
+   <param name='snake_damage'>20</param>
+   <param name='hit_guy_points'>15</param>
+   <param name='hit_rhino_points'>5</param>
+   <param name='hit_red_guy_points'>30</param>
+   <param name='hit_red_rhino_points'>10</param>
+   <param name='hit_guy_damage'>15</param>
+   <param name='hit_red_guy_damage'>30</param>
+ </params>
+</game>
+</xml>

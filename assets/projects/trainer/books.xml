@@ -1,0 +1,975 @@
+﻿
+
+
+<books lang1="en" lang2="ru">
+
+	
+	<book ru="С.П.Дугин" en="S.P.Dugin" icon="1.gif">		
+		<chapter ru="Существительные,личные местоимения, to have, прилагательные" en="Существительные,личные местоимения, to have, прилагательные" html="help/Существительные_личные_местоимения_to_have_прилагательные.html">
+
+			<sentence en="I have a pen" ru="У меня есть ручка" />
+			<sentence en="You have a pen" ru="У тебя есть ручка" />
+			<sentence en="He has a pen" ru="У него есть ручка" />
+			<sentence en="She has a pen" ru="У неё есть ручка" />
+			<sentence en="We have pens" ru="У нас есть ручки" />
+			<sentence en="They have pens" ru="У них есть ручки" />
+			<sentence en="I have a ball" ru="У меня есть мяч" />
+			<sentence en="He has a ball" ru="У него есть мяч" />
+			<sentence en="I have a red ball" ru="У меня есть красный мяч" />
+			<sentence en="She has a red ball" ru="У неё есть красный мяч" />
+			<sentence en="I have a big dog" ru="У меня есть большая собака" />
+			<sentence en="He has a black dog" ru="У него есть чёрная собака" />
+			<sentence en="We have a red dog" ru="У нас есть рыжая собака" />
+			<sentence en="They have a dog and a cat" ru="У них есть собака и кошка" />
+			<sentence en="I have a red pen and a black pencil" ru="У меня есть красная ручка и чёрный карандаш" />
+			<sentence en="They have pens and pencils" ru="У них есть ручки и карандаши" />
+			<sentence en="She has a doll" ru="У неё есть кукла" />
+			<sentence en="She has a big doll" ru="У неё есть большая кукла" />
+			<sentence en="We have dolls" ru="У нас есть куклы" />
+			<sentence en="I have an apple" ru="У меня есть яблоко" />
+			<sentence en="I have a red apple" ru="У меня есть красное яблоко" />
+			<sentence en="I have a big red apple" ru="У меня есть большое красное яблоко" />
+			<sentence en="We have red apples" ru="У нас есть красные яблоки" />
+			<sentence en="They have big red apples" ru="У них есть большие красные яблоки" />
+			<sentence en="She has a big doll and a little cat" ru="У неё есть большая кукла и маленький кот" />
+			
+		</chapter>
+		<chapter ru="Числительные, местоимения, отрицательные to have" en="Числительные, местоимения, отрицательные to have" html="help/Числительные_местоимения_отрицательные_to_have.html">
+			<sentence en="I have a friend" ru="У меня есть друг" />
+			<sentence en="You have 2 friends" ru="У тебя есть 2 друга" />
+			<sentence en="He has many friends" ru="У него много друзей" />		
+			<sentence en="He has few friends" ru="У него мало друзей" />		
+			<sentence en="We have friends" ru="У нас есть друзья" />		
+			<sentence en="They have no friends" ru="У них нет друзей" />		
+			<sentence en="I have 4 pens and 5 pencils" ru="У меня есть 4 ручки и 5 карандашей" />		
+			<sentence en="She has a black dog and 2 red cats" ru="У неё есть чёрная собака и 2 рыжих кошки" />
+			<sentence en="We have many books" ru="У нас много книг" />
+			<sentence en="They have few books" ru="У них мало книг" />
+			<sentence en="He has 6 cups and 7 glasses" ru="У него есть 6 чашек и 7 стаканов" />
+			<sentence en="She has no cups" ru="У неё нет чашек" />
+			<sentence en="She has no glasses" ru="У неё нет стаканов" />
+			<sentence en="I have a cup, 2 glasses and many plates" ru="У меня есть чашка, 2 стакана и много тарелок" />
+			<sentence en="He has a table" ru="У него есть стол" />
+			<sentence en="She has a chair" ru="У неё есть стул" />
+			<sentence en="We have many tables" ru="У нас есть много столов" />
+			<sentence en="They have few chairs" ru="У них мало стульев" />
+			<sentence en="I have no chairs" ru="У меня нет стульев" />
+			<sentence en="He has a brother and 2 sisters" ru="У него есть брат и 2 сестры" />
+			<sentence en="She has no brothers" ru="У неё нет братьев" />
+			<sentence en="They have a child" ru="У них есть ребёнок" />
+			<sentence en="They have children" ru="У них есть дети" />
+			<sentence en="She has a son and 2 daughters" ru="У неё есть сын и 2 дочери" />
+			<sentence en="He has 2 daughters" ru="У него 2 дочери" />
+			<sentence en="They have no children" ru="У них нет детей" />
+			<sentence en="She has a spoon and a fork" ru="У неё есть ложка и вилка" />
+			<sentence en="We have many spoons and few forks" ru="У нас есть много ложек и мало вилок" />
+			<sentence en="They have no spoons" ru="У них нет ложек" />
+			<sentence en="They have no forks" ru="У них нет вилок" />
+		</chapter>
+		
+		<chapter ru="to be, it, on, it, at" en="to be, it, on, it, at">
+			<sentence en="On my table" ru="На моём столе" />
+			<sentence en="In his desk" ru="В его парте" />
+			<sentence en="At my window" ru="Около моего окна" />
+			<sentence en="On her book" ru="На её книге" />
+			<sentence en="In our house" ru="В нашем доме" />
+			<sentence en="At his plate" ru="Возле его тарелки" />
+			<sentence en="I have a brother. My brother is a student" ru="У меня есть брат. Мой брат студент" />
+			<sentence en="You have a car. Your car is red" ru="У тебя есть машина. Твоя машина красная" />
+			<sentence en="He has a flat. His flat is large" ru="У него есть квартира. Его квартира большая" />
+			<sentence en="She has a son. Her son is small" ru="У неё есть сын. Её сын маленький" />
+			<sentence en="We have a house. Our house is large" ru="У нас есть дом. Наш дом большой" />
+			<sentence en="They have a garden. Their garden is small" ru="У них есть сад. Их сад маленький" />
+			<sentence en="My brother has a friend. He is a doctor" ru="У моего брата есть друг. Он доктор" />
+			<sentence en="My brother has a house. It is very large" ru="У моего брата есть дом. Он очень большой" />
+			<sentence en="My sister has a friend. She is a student" ru="У моей сестры есть подруга. Она студентка " />
+			<sentence en="My sister has a cat. It is red" ru="У моей сестры есть кот. Он рыжий" />
+			<sentence en="He has a bag. It is black" ru="У него есть сумка. Она чёрная" />
+			<sentence en="She has a dog. It is big" ru="У неё есть собака. Она большая" />
+			<sentence en="They have 2 children. They are small" ru="У них есть 2 ребёнка. Они маленькие" />
+			<sentence en="They have 2 pencils. They are black" ru="У них есть 2 карандаша. Они чёрные" />
+			<sentence en="I am in my flat" ru="Я в своей квартире" />
+			<sentence en="He is in his flat" ru="Он в своей квартире" />
+			<sentence en="She is in her flat" ru="Она в своей квартире" />
+			<sentence en="We are in our flat" ru="Мы в своей квартире" />
+			<sentence en="They are in their flat" ru="Они в своей квартире" />
+			<sentence en="My bed is at my table" ru="Моя кровать стоит возле моего стола" />
+			<sentence en="My desk is at his desk" ru="Моя парта стоит возле его парты" />
+			<sentence en="His pen is on my table" ru="Его ручка лежит на моём столе" />
+			<sentence en="Her books are on his desk" ru="Её книги лежат на его парте" />
+			<sentence en="Our plates are on our table" ru="Наши тарелки стоят на нашем столе" />
+			<sentence en="Their cups are on their table" ru="Их чашки стоят на их столе" />
+			<sentence en="My brother is in my room" ru="Мой брат в моей комнате" />
+			<sentence en="His sisters are in his room" ru="Его сёстры в его комнате" />		
+		</chapter>
+		
+		
+		<chapter ru="This - these, that - those" en="This - these, that - those">
+			<sentence en="This is a pencil" ru="Это карандаш" />
+			<sentence en="These are pencils" ru="Это карандаши" />
+			<sentence en="This is a book" ru="Это книга" />
+			<sentence en="These are books" ru="Это книги" />
+			<sentence en="This is my textbook" ru="Это мой учебник" />
+			<sentence en="These are my textbooks" ru="Это мои учебники" />
+			<sentence en="This is his shirt" ru="Это его рубашка" />
+			<sentence en="These are his shirts" ru="Это его рубашки" />
+			<sentence en="This is her dress" ru="Это её платье" />
+			<sentence en="These are her dresses" ru="Это её платья" />
+			<sentence en="This dress is red" ru="Это платье красное" />
+			<sentence en="That dress is black" ru="То платье чёрное" />
+			<sentence en="These dresses are red" ru="Эти платья красные" />
+			<sentence en="Those dresses are black" ru="Те платья чёрные" />
+			<sentence en="This shirt is white" ru="Эта рубашка белая" />
+			<sentence en="That shirt is blue" ru="Та рубашка голубая" />
+			<sentence en="These shirts are big" ru="Эти рубашки большие" />
+			<sentence en="Those shirts are small" ru="Те рубашки маленькие" />
+			<sentence en="This shoe is black" ru="Эта туфля чёрная" />
+			<sentence en="That shoe is brown" ru="Та туфля коричневая" />
+			<sentence en="These shoes are black" ru="Эти туфли чёрные" />
+			<sentence en="Those shoes are brown" ru="Те туфли коричневые" />
+			<sentence en="This is my ruler" ru="Это моя линейка" />
+			<sentence en="That is her ruler" ru="То её линейка" />
+			<sentence en="This ruler is long" ru="Эта линейка длинная" />
+			<sentence en="That ruler is short" ru="Та линейка короткая" />
+			<sentence en="His case is light" ru="Его чемодан лёгкий" />
+			<sentence en="Our cases are heavy" ru="Наши чемоданы тяжёлые" />
+			<sentence en="He has a dog. It is black" ru="У него есть собака. Она чёрная" />
+			<sentence en="She has a dress. It is white" ru="У неё есть платье. Оно белое" />
+			<sentence en="My bag is on the table" ru="Мой портфель стоит на столе" />
+			<sentence en="His books are in the bag" ru="Его книги в портфеле" />
+			<sentence en="Her pen is at the lamp" ru="Её ручка лежит возле лампы" />
+			<sentence en="Our books are in the bookcase" ru="Наши книги в книжном шкафу" />
+			<sentence en="Her dress is on the bed" ru="Её платье лежит на кровати" />
+			<sentence en="My desk is at the window" ru="Моя парта стоит у окна" />
+			<sentence en="This is not my room" ru="Это не моя комната" />
+			<sentence en="These are not my pencils" ru="Это не мои карандаши" />
+			<sentence en="This is not his shirt" ru="Это не его рубашка" />
+			<sentence en="These are not his shoes" ru="Это не его туфли" />
+			<sentence en="I have a case.The case is heavy" ru="У меня есть чемодан. Чемодан тяжёлый" />
+			<sentence en="He has 2 bags. The bags are light" ru="У него 2 сумки. Сумки лёгкие" />
+			<sentence en="I have a brother. He is a sportsman" ru="У меня есть брат. Он спортсмен" />
+		</chapter>
+		
+		<chapter ru="Абсолютная форма притяжат. местоимений. of, Притяжат. падеж" en="Абсолютная форма притяжат. местоимений. of, Притяжат. падеж">
+			<sentence en="My case is big. Yours is small" ru="Мой чемодан большой. Ваш маленький" />
+			<sentence en="His tie is red. Mine is black" ru="Его галстук красный. Мой чёрный" />
+			<sentence en="My shoes are brown. Hers are white" ru="Мои туфли коричневые. Её белые" />
+			<sentence en="Her coat is long. His is short" ru="Её пальто длинное. Его короткое" />
+			<sentence en="Our children are students. Theirs are schoolchildren" ru="Наши дети студенты. Их школьники" />
+			<sentence en="Their sons are little. Our are big" ru="Их сыновья маленькие. Наши большие" />
+			<sentence en="My book is on the table. Yours is in the bag" ru="Моя книга лежит на столе. Твоя в портфеле" />
+			<sentence en="His name is Peter. Hers is Ann" ru="Его зовут Питер. Её Анна" />
+			<sentence en="My name is Steve. His is Nick" ru="Меня зовут Стив. Его Ник" />
+			<sentence en="He is my brother" ru="Он мой брат" />
+			<sentence en="He is our teacher" ru="Он наш учитель" />
+			<sentence en="She is my sister" ru="Она моя сестра" />
+			<sentence en="This is my mother's blouse" ru="Это блузка моей матери" />
+			<sentence en="These are my mother's shoes" ru="Это туфли моей матери" />
+			<sentence en="This is our teacher's table" ru="Это стол нашего учителя" />
+			<sentence en="These are our teacher's books" ru="Это книги нашего учителя" />
+			<sentence en="This is her son's toy" ru="Это игрушка её сына" />
+			<sentence en="These are her son's toys" ru="Это игрушки её сына" />
+			<sentence en="These are her sons' toys" ru="Это игрушки её сыновей" />
+			<sentence en="This is my brother's friend" ru="Это друг моего брата" />
+			<sentence en="These are my brother's friends" ru="Это друзья моего брата" />
+			<sentence en="These are my brothers' friends" ru="Это друзья моих братьев" />
+			<sentence en="This is my brothers' friend" ru="Это друг моих братьев" />
+			<sentence en="My ruler is longer than yours" ru="Моя линейка длиннее, чем твоя" />
+			<sentence en="My son is smaller than yours" ru="Мой сын меньше, чем ваш" />
+			<sentence en="My cases are bigger than theirs" ru="Мои чемоданы больше, чем их" />
+			<sentence en="My case is the biggest" ru="Мой чемодан самый большой" />
+			<sentence en="This bag is lager than that" ru="Эта сумка больше, чем та" />
+			<sentence en="This bag is the largest" ru="Эта сумка самая большая" />
+			<sentence en="This book is more interesting than that" ru="Эта книга интереснее, чем та" />
+			<sentence en="This is the most interesting book" ru="Это самая интересная книга" />
+			<sentence en="This is the longest day of the year" ru="Это самый длинный день в году" />
+			<sentence en="This is the shortest day of the year" ru="Это самый короткий в году" />
+			<sentence en="This pencil is as long as that" ru="Этот карандаш такой же длинный, как тот" />
+			<sentence en="This pencil is not so long as that" ru="Этот карандаш не такой длинный, как тот" />
+			<sentence en="This film is as interesting as that" ru="Этот фильм такой же интересный как тот" />
+			<sentence en="This film is not so interesting as that" ru="Этот фильм не такой интересный как тот" />
+			<sentence en="My son is as tall as yours" ru="Мой сын такой же высокий как ваш" />
+			<sentence en="My son is not so tall as yours" ru="Мой сын не такой высокий как ваш" />
+			<sentence en="His room is not so warm as my" ru="Его комната не такая тёплая, как моя" />
+			<sentence en="This is the warmest room of our flat" ru="Это самая тёплая комната в нашей квартире" />
+
+		</chapter>
+		
+		<chapter ru="Вопросительные предложения to have и to be. there is - there are" en="Вопросительные предложения to have и to be. there is - there are">
+			<sentence en="Have you a dog? - Yes, I have. I have a big dog" ru="У тебя есть собака? - Да. У меня большая собака" />
+			<sentence en="Have you a cat? - No, I have not" ru="У тебя есть кошка? - Нет" />
+			<sentence en="Has he a brother? - Yes, he has. His brother is a student" ru="У него есть брат? - Да. Его брат студент" />
+			<sentence en="Has she a son? - No, she has not. She has 2 daughters" ru="У неё есть сын? - Нет. У неё 2 дочери" />
+			<sentence en="Have they children ? - Yes, they have. They have a son and a daughter" ru="У них есть дети? - Да. У них сын и дочь" />
+			<sentence en="Are you a doctor? - No, I am not" ru="Вы врач? - Нет" />
+			<sentence en="Are you a student? - Yes, I am. I am a student" ru="Вы студент? - Да. Я студент" />
+			<sentence en="Is he a teacher? - No, he is not. He is a driver" ru="Он учитель? - Нет. Он шофёр" />
+			<sentence en="Is she a housewife? - Yes, she is" ru="Она домохозяйка? - Да" />
+			<sentence en="Are they students? - No, they are not. They are schoolchildren yet" ru="Они студенты? - Нет. Они ещё школьники" />
+			<sentence en="Is this your friend? - Yes, he is. He is my best friend" ru="Это твой друг? - Да. Он мой лучший друг" />
+			<sentence en="Are these your friends? - No, they are not. They are my brother's friends" ru="Это твои друзья? - Нет. Это друзья моего брата" />
+			<sentence en="Is this your coat? - Yes, it is" ru="Это твоё пальто? - Да" />
+			<sentence en="Are these her boots? - Yes, they are" ru="Это её ботинки? - Да" />
+			<sentence en="Is this your father's tie? - Yes, it is" ru="Это галстук твоего отца? - Да" />
+			<sentence en="Is this your sister's skirt? - No, it is not. It is my mother's skirt" ru="Это юбка твоей сестры? - Нет. Это юбка моей матери" />
+			<sentence en="Are these your brother's shoes? - No, they are not. They are mine" ru="Это туфли твоего брата? - Нет. Они мои" />
+			<sentence en="Is this her blouse? - Yes, it is" ru="Это её блузка? - Да" />
+			<sentence en="Are these your gloves? No, they are not. These are my wife's gloves" ru="Это ваши перчатки? Нет. Это перчатки моей жены" />
+			<sentence en="Where is your case? It is at the table" ru="Где ваш чемодан? Он стоит возле стола" />
+			<sentence en="Where are your cases? They are under the table" ru="Где ваши чемоданы? Они под столом" />
+			<sentence en="Where is his house? It is near the park" ru="Где его дом? Он возле парка" />
+			<sentence en="Where are her brothers? They are at home" ru="Где её братья? Они дома" />
+			<sentence en="Is your wife at home? Yes, she is" ru="Ваша жена дома? Да" />
+			<sentence en="Are your children at school? No, they are not. They are at home" ru="Ваши дети в школе? Нет. Они дома" />
+			<sentence en="Where is your brother? - He is at the University" ru="Где ваш брат? - Он в университете" />
+			<sentence en="Where are your brothers? They are at work" ru="Где ваши братья? Они на работе" />
+			<sentence en="Is your father at work? - No, he is not. He is at home" ru="Твой отец на работе? - Нет. Он дома" />
+			<sentence en="There is an apple on the table" ru="На столе лежит яблоко" />
+			<sentence en="There are many apples on the table" ru="На столе лежит много яблок" />
+			<sentence en="There are few apples on the table" ru="На столе лежит мало яблок" />
+			<sentence en="There are some apples on the table" ru="На столе лежат яблоки" />
+			<sentence en="There is an egg on the plate" ru="На тарелке лежит яйцо" />
+			<sentence en="There is a lemon on the table" ru="На столе лежит лимон" />
+			<sentence en="These are some lemons on the table" ru="На столе лежат лимоны" />
+			<sentence en="These are many oranges on the plate" ru="На тарелке много апельсинов" />
+			<sentence en="These are some oranges on the plate" ru="На тарелке лежат апельсины" />
+			<sentence en="There is some rise in the jar" ru="В банке есть рис" />
+			<sentence en="There is some milk in the bottle" ru="В бутылке есть молоко" />
+			<sentence en="There is some sugar in the jar" ru="В банке есть сахар" />
+			<sentence en="There is some oil in the bottle" ru="В бутылке есть масло" />
+			<sentence en="There is some water in the jag" ru="В кувшине есть вода" />
+			<sentence en="There is some wine in the bottle" ru="В бутылке есть вино" />
+			<sentence en="Is there a book on the table? - Yes, there is" ru="На столе лежит книга? - Да" />
+			<sentence en="Are there any books on the table? - No, there are not any books on the table" ru="На столе есть книги? - Нет, на столе нет книг" />
+			<sentence en="Is there any cheese in the fridge? - Yes, there is" ru="В холодильнике есть сыр? - Да" />
+			<sentence en="Is there any butter on the plate? - No, there is not. There is not any butter on the plate"  ru="На тарелке есть масло? - Нет. На тарелке нет масла" />
+			<sentence en="Are there any eggs in the fridge? - Yes, they are. There are 10 eggs there" ru="В холодильнике есть яйца? - Да. Там десяток яиц" />
+			<sentence en="What is there on the table? - There is an apple and some pears there" ru="Что находится на столе? - Там лежит яблоко и груши" />
+			<sentence en="What is there in the cup? - There is some milk there" ru="Что в чашке? - Там молоко" />
+			<sentence en="Who is there in the bedroom? - There is my wife there" ru="Кто находится в спальне? - Там моя жена" />
+			<sentence en="Who is there in the bathroom? - There are my sons there" ru="Кто в ванной? - Там мои сыновья" />
+			<sentence en="What is there in the fridge? - There are some eggs and some butter there" ru="Что находиться в холодильнике? - Там лежат яйца и масло" />
+		</chapter>
+
+		<chapter ru="Present Indefinite Tense. Present Continuous Tense" en="Present Indefinite Tense. Present Continuous Tense">
+			<sentence en="Open the door, please" ru="Откройте дверь, пожалуйста" />
+			<sentence en="Read this letter" ru="Прочтите это письмо" />
+			<sentence en="Show your room, please" ru="Покажите свою комнату, пожалуйста" />
+			<sentence en="Go to the yard" ru="Идите во двор" />
+			<sentence en="I go to school every morning" ru="Я хожу в школу каждое утро" />
+			<sentence en="I am going to school" ru="Я иду в школу" />
+			<sentence en="He goes to work every day" ru="Он ходит на работу каждый день" />
+			<sentence en="He is going to work" ru="Он идёт на работу" />
+			<sentence en="Their children go to the cinema every week" ru="Их дети ходят в кино каждую неделю" />
+			<sentence en="They are going to the cinema" ru="Они идут в кино" />
+			<sentence en="She likes to read the poems of Pushkin" ru="Она любит читать стихи Пушкина" />
+			<sentence en="She often reads the poems of Pushkin" ru="Она часто читает стихи пушкина" />
+			<sentence en="She is reading a letter" ru="Она читает письмо" />
+			<sentence en="My brother likes to write letters" ru="Мой брат любит писать письма" />
+			<sentence en="My brother writes many letters" ru="Мой брат пишет много писем" />
+			<sentence en="My brother is writing a letter" ru="Мой брат пишет письмо" />
+			<sentence en="She always wait for me near my house" ru="Она всегда ждёт меня рядом с моим домом" />
+			<sentence en="They are waiting for me in the yard" ru="Они ждут меня во дворе" />
+			<sentence en="I want to listen to music" ru="Я хочу послушать музыку" />
+			<sentence en="I always listen to music after work" ru="Я всегда слушаю музыку после работы" />
+			<sentence en="I am listening to music" ru="Я слушаю музыку" />
+			<sentence en="Her son likes to watch TV" ru="Её сын любит смотреть телевизор" />
+			<sentence en="Her son watches TV every evening" ru="Её сын смотрит телевизор каждый вечер" />
+			<sentence en="Look! He is watching TV again" ru="Посмотри! Он опять смотрит телевизор" />
+			<sentence en="We do our homework every day" ru="Мы делаем домашнее задание каждый день" />
+			<sentence en="We are doing our homework" ru="Мы делаем домашнее задание" />
+		</chapter>		
+		
+		<chapter ru="Личные местоимения в косвенном падеже. Вопросительные и отрицательные предложения Present Indefinite и Present Continuous" en="Личные местоимения в косвенном падеже. Вопросительные и отрицательные предложения Present Indefinite и Present Continuous">
+			<sentence en="I know him and his wife. I know them" ru="Я знаю его и его жену. Я знаю их" />
+			<sentence en="I know her sister. I know her" ru="Я знаю её сестру. Я знаю её" />
+			<sentence en="She knows me and my brother. She knows us" ru="Она знает меня и моего брата. Она знает нас" />
+			<sentence en="They often go to the pictures" ru="Они часто ходят в кино" />
+			<sentence en="They are going to the pictures" ru="Они идут в кино" />
+			<sentence en="His son goes to school every day" ru="Его сын ходит в школу каждый день" />
+			<sentence en="Does his son go to school every day? - No, he does not. He does not go to school on Sunday" ru="Его сын ходит в школу каждый день? - Нет. Он не ходит в школу по Воскресеньям" />
+			<sentence en="Is he going to school? - No, he is not. He is going home" ru="Он идёт в школу? - Нет. Он идёт домой" />
+			<sentence en="As a rule she goes to work at 8 o'clock" ru="Как правило она идёт на работу в 8 часов" />
+			<sentence en="It is 8 o'clock. She is going to work" ru="Сейчас 8 часов. Она идёт на работу" />
+			<sentence en="Their children like to play basketball" ru="Их дети любят играть в баскетбол" />
+			<sentence en="Do they like to play basketball? - Yes, they do" ru="Они любят играть в баскетбол? - Да" />
+			<sentence en="Do you like to play football? - No, we do not" ru="Вы любите играть в футбол? - Нет" />
+			<sentence en="What are they doing? - They are playing basketball" ru="Что они делают? - Они играют в баскетбол" />
+			<sentence en="Do you like to play the piano? - No, I do not. I like to play the guitar" ru="Вы любите играть на пианино? - Нет. Я люблю играть на гитаре" />
+			<sentence en="Does your sister like to play the piano? - Yes, she does. She plays the piano every evening" ru="Ваша сестра любит играть на пианино? - Да. Она играет на пианино каждый вечер" />
+			<sentence en="What is she doing? Is she playing the piano? - No, she is not. She is writing a letter" ru="Что она делает? Она играет на пианино? - Нет. Она пишет письмо" />
+			<sentence en="Where do you live? - I live in Kiev" ru="Где вы живёте? - Я живу в Киеве" />
+			<sentence en="Where does he live? - He lives in Moscow" ru="Где он живёт? - Он живёт в Москве" />
+			<sentence en="Do you know him? - Yes, I do. He is a teacher" ru="Вы знаете его? - Да. Он учитель" />
+			<sentence en="Does she know your brother? - No, she does not" ru="Она знает вашего брата? - Нет" />
+			<sentence en="Do you have a shower every day? - Yes, I do" ru="Вы принимаете душ каждый день? - Да" />
+			<sentence en="Does she has a shower in the morning? - No, she does not. She has a shower in the evening" ru="Она принимает душ утром? - Нет. Она принимает душ вечером" />
+			<sentence en="What is he doing? - He is having a shower" ru="Что он делает? - Он принимает душ" />
+			<sentence en="Where do you work? - I work at the University" ru="Где вы работаете? - Я работаю в университете" />
+			<sentence en="Where does your brother work? - He works at school" ru="Где работает ваш брат? - Он работает в школе" />
+			<sentence en="Is he working? - No, he is not. He is having a rest" ru="Он работает? - Нет. Он отдыхает" />
+
+		</chapter>
+
+		<chapter ru="Past Indefinite Tense. Past Continuous Tense" en="Past Indefinite Tense. Past Continuous Tense">
+			<sentence en="Do you like to read? - Yes, I do" ru="Вы любите читать? - Да" />
+			<sentence en="Do you read much? - Yes, I do" ru="Вы читаете много? - Да" />
+			<sentence en="When did you read this book? - I read it last year" ru="Когда вы прочитали эту книгу? - Я прочёл её в прошлом году" />
+			<sentence en="What are you reading? - I am reading my wife's letter" ru="Что вы читаете? - Я читаю письмо моей жены" />
+			<sentence en="What were you reading when I entered the room? - I was reading a newspaper" ru="Что вы читали, когда я вошёл в комнату? - Я читал газету" />
+			<sentence en="Where does he work? - He works at the University" ru="Где он работает? - Он работает в Университете" />
+			<sentence en="What is he doing? - He is working" ru="Что он делает? - Он работает" />
+			<sentence en="Where did he work last year? - He worked at school" ru="Где он работал в прошлом году? - Он работал в школе" />
+			<sentence en="Was he working when you returned home? - Yes, he was. He was writing a report" ru="Он работал, когда вы вернулись домой? - Да. Он писал доклад" />
+			<sentence en="What were you doing when he came home? - I was cooking dinner" ru="Что вы делали, когда он пришёл домой? - Я готовил еду" />
+			<sentence en="What was he doing when you came home? - He was having dinner" ru="Что он делал, когда вы пришли домой? - Он обедал" />
+			<sentence en="Was he having dinner when you came home? - No, he was not. He was washing up" ru="Он обедал, когда вы пришли домой? - Нет. Он мыл посуду" />
+			<sentence en="Where does your brother work? - He works at the University" ru="Где работает ваш брат? - Он работает в Университете" />
+			<sentence en="Where did your brother work last year? - He worked at school" ru="Где работал ваш брат в прошлом году? - Он работал в школе" />
+			<sentence en="What were you doing at 4 o'clock yesterday? - I was watching TV" ru="Что вы делали вчера в 4 часа? - Я смотрел телевизор" />
+			<sentence en="What was your brother doing at 2 o'clock yesterday? - He was listening to music" ru="Что делал ваш брат вчера в 2 часа? - Он слушал музыку" />
+			<sentence en="She was cooking breakfast when the telephone rang" ru="Она готовила завтрак, когда зазвонил телефон" />
+			<sentence en="What was he doing when you saw him? - When I saw him he was watering the flowers" ru="Что он делал, когда вы увидели его? - Когда я увидел его, он поливал цветы" />
+			<sentence en="Do you like his car? - Yes, I do" ru="Вам нравится его машина? - Да" />
+			<sentence en="Did you like his new car? - Yes, I did" ru="Вам понравилась его новая машина? - Да" />
+			<sentence en="What was your wife doing while you were watching TV? - She was pressing my shirt" ru="Что делала ваша жена, пока вы смотрели телевизор? - Она гладила мою рубашку" />
+			<sentence en="What were you doing while your wife was talking on the phone? - I was trying to press my trousers" ru="Что вы делали, пока ваша жена разговаривала по телефону? - Я пытался гладить свои брюки" />
+
+		</chapter>
+		
+		<chapter ru="Future Indefinite Tense. Future Continuous Tense" en="Future Indefinite Tense. Future Continuous Tense">
+			<sentence en="I shall write an article next week" ru="Я напишу статью на следующей неделе" />
+			<sentence en="I shall be writing an article from 2 till 4 tomorrow" ru="Я буду писать статью с 2 до 4 завтра " />
+			<sentence en="He often writes articles for our wall newspaper" ru="Он часто пишет статьи для нашей стенной газеты" />
+			<sentence en="He is busy. He is writing an article" ru="Он занят. Он пишет статью" />
+			<sentence en="I wrote this article last week" ru="Я написал эту статью на прошлой неделе" />
+			<sentence en="I was writing an article when somebody knocked at the door" ru="Я писал статью, когда кто-то постучал в дверь" />
+			<sentence en="What will you do on Sunday? - On Sunday we shall go to the country" ru="Что вы будете делать в воскресенье? - В воскресенье мы поедем за город" />
+			<sentence en="What will you be doing at 2 o'clock on Sunday? - I think we shall be going to the country at this time" ru="Что вы будете делать в 2 часа в воскресенье? - Я думаю, мы будем ехать за город в это время" />
+			<sentence en="What did you do on Sunday? - We went to the country" ru="Что вы делали в воскресенье? - Мы ездили за город" />
+			<sentence en="What were you doing at 2 o'clock on Sunday? - We were going from the country at this time" ru="Что вы делали в 2 часа в воскресенье? - Мы ехали из деревни в это время" />
+			<sentence en="On Sundays she usually gets up at 9 o'clock and on weekdays she gets up at 7" ru="По воскресеньям она обычно встаёт в 9 часов, а по будним дням она встаёт в 7" />
+			<sentence en="She will get up at 8 o'clock tomorrow" ru="Завтра она встанет в 8 часов" />
+			<sentence en="She got up at half past 7 yesterday" ru="Вчера она встала в полвосьмого" />
+			<sentence en="I shall wait for you at home" ru="Я подожду вас дома" />
+			<sentence en="I shall be waiting for you at home at 5 o'clock" ru="Я буду ждать вас дома в 5 часов" />
+			<sentence en="They will take their examination in 2 days" ru="Они будут сдавать экзамен через 2 дня" />
+			<sentence en="They will be taking their examination at 11 o'clock tomorrow" ru="Они будут сдавать экзамен завтра в 11 часов" />
+			<sentence en="Shall I read or translate the text?" ru="Мне читать или переводить текст?" />
+			<sentence en="Shall we have breakfast?" ru="Может позавтракаем?" />
+			<sentence en="He is going to by a car" ru="Он собирается купить машину" />
+			<sentence en="What are you going to do tomorrow? - I shall stay at home" ru="Что вы собираетесь делать завтра? - Я останусь дома" />
+			<sentence en="We are going to Moscow tonight" ru="Мы едем в Москву сегодня вечером" />
+			<sentence en="I am coming in a minute" ru="Я приду через минуту" />
+			<sentence en="Let's go to the pictures" ru="Давай пойдём в кино" />
+			<sentence en="I shall not come tomorrow" ru="Я не приду завтра" />
+			<sentence en="He will not come tomorrow" ru="Он не придёт завтра" />
+			<sentence en="We shall have 5 lessons today. At our English lesson we shall speak English, we shall read and translate texts and write exercises" ru="Сегодня у нас будет 5 уроков. На нашем уроке английского языка мы будем говорить по-английски, мы будем читать и переводить тексты и писать упражнения" />
+			<sentence en="After classes the children will go to the school canteen" ru="После уроков дети пойдут в школьную столовую" />
+			<sentence en="If I have time after classes, I shall go to the library" ru="Если у меня будет время после уроков, я пойду в библиотеку" />
+			<sentence en="I shall call you when I come home" ru="Я позвоню вам, когда приду домой" />
+			<sentence en="We shall go for a walk if it does not rain" ru="Мы пойдём на прогулку, если не будет дождя" />
+			<sentence en="Mary will come to the party if you invite her" ru="Мэри придёт на вечеринку, если вы пригласите её" />
+
+
+		</chapter>			
+
+		<chapter ru="Модальные глаголы и их эквиваленты" en="Модальные глаголы и их эквиваленты">
+			<sentence en="I must do it" ru="Я должен сделать это" />
+			<sentence en="We must do it together" ru="Мы должны сделать это вместе" />
+			<sentence en="He must do it immediately" ru="Он должен сделать это немедленно" />
+			<sentence en="I can do it" ru="Я могу это сделать" />
+			<sentence en="She can do it" ru="Она может это сделать" />
+			<sentence en="You may take my textbook" ru="Вы можете взять мой учебник" />
+			<sentence en="Must I go to the meeting? - Yes, you must" ru="Я должен идти на собрание? - Да, должен" />
+			<sentence en="Must I read this text? - No, you need not" ru="Я должен читать этот текст? - Нет, не нужно" />
+			<sentence en="Can you translate this text without a dictionary? - No, I cannot. It is very difficult" ru="Вы можете перевести этот текст без словаря? - Нет. Он очень трудный" />
+			<sentence en="May I take your pen? - Yes, do please" ru="Могу я взять вашу ручку? - Да, пожалуйста" />
+			<sentence en="May I come in? - Yes, do please" ru="Могу я войти? - Да, пожалуйста" />
+			<sentence en="He can speak English well" ru="Он умеет хорошо говорить по-английски" />
+			<sentence en="He cannot speak English well" ru="Он не может говорить хорошо по-английски" />
+			<sentence en="Can he speak English well? - No, he cannot" ru="Он может хорошо говорить по-английски? - Нет" />
+			<sentence en="She must speak to the dean about it" ru="Она должна поговорить об этом с деканом" />
+			<sentence en="I must go to school today" ru="Я должен идти сегодня в школу" />
+			<sentence en="I had to get up at 6 o'clock yesterday" ru="Вчера мне пришлось встать в 6 утра"/>
+			<sentence en="I shall have to get up very early tomorrow" ru="Мне придётся встать очень рано завтра" />
+			<sentence en="I am to talk to him" ru="Мне предстоит поговорить с ним" />
+			<sentence en="He can translate this text" ru="Он может перевести этот текст" />
+			<sentence en="He was able to read and translate this text" ru="Он смог прочитать и перевести этот текст" />
+			<sentence en="He will able to write an article" ru="Он сможет написать статью" />
+			<sentence en="May I come to the party? - Yes, do please" ru="Можно мне прийти на вечеринку? - Да, пожалуйста" />
+			<sentence en="I was allowed to come to the party" ru="Мне разрешили прийти на вечеринку" />
+			<sentence en="I shall be allowed to call to the party" ru="Мне разрешат прийти на вечеринку" />
+			<sentence en="You should call him tonight" ru="Вам следует позвонить ему сегодня вечером" />
+			<sentence en="You should do your homework every day" ru="Вам следует делать домашнее задание каждый день" />
+			<sentence en="You ought to by this textbook" ru="Вам следует купить этот учебник" />
+			<sentence en="Will you give me a bottle of beer?" ru="Дайте мне, пожалуйста, бутылку пива" />
+			<sentence en="I shall be writing my article the whole day" ru="Я буду писать статью весь день" />
+			<sentence en="All of them know about it" ru="Все они знают об этом" />
+			<sentence en="All of us were present at the meeting" ru="Мы все присутствовали на собрании" />
+			<sentence en="You need not go there if you have no time" ru="Вам не нужно идти туда, если у вас нет времени" />
+			<sentence en="May I ask you a question? - I am afraid not. I am hurrying to the lecture" ru="Могу я задать вопрос? - Боюсь, что нет. Я спешу на лекцию" />
+			<sentence en="Can you name the days of the week? - Yes, I can. They are Sunday, Monday, Thursday, Wednesday, Thursday, Friday and Saturday" ru="Вы можете назвать дни недели? - Да. Вот они: воскресенье, понедельник, вторник, среда, четверг, пятница и суббота" />
+			<sentence en="If one wants to study, one can always find time for it" ru="Если хочешь учиться, всегда можно найти время для этого" />
+			<sentence en="One can take books from the library" ru="В библиотеке можно брать книги" />
+			<sentence en="What can one see out of the window of your room?" ru="Что можно видеть из окна вашей комнаты?" />
+			<sentence en="One must work hard at a foreign language if one wants to master it" ru="Нужно упорно работать над иностранным языком, если хочешь овладеть им" />
+		</chapter>				
+		
+		<chapter ru="Present Perfect Tense" en="Present Perfect Tense">
+			<sentence en="Yesterday I sent a letter to my parents" ru="Вчера я отослал письмо своим родителям" />
+			<sentence en="I have just sent a letter to my parents" ru="Я только что отослал письмо своим родителям" />
+			<sentence en="He did his homework the day before yesterday" ru="Он сделал домашнюю работу позавчера" />
+			<sentence en="He has already done his homework" ru="Он уже сделал домашнюю работу" />
+			<sentence en="My brother did not visit us last year" ru="Мой брат не посещал нас в прошлом году" />
+			<sentence en="My brother has not visited us since the New Year" ru="Мой брат не посещал нас с Нового года" />
+			<sentence en="Have you written a letter? - Yes, I have" ru="Ты написал письмо? - Да" />
+			<sentence en="When did you write a letter? - I wrote it yesterday" ru="Когда ты написал письмо? - Я написал его вчера" />
+			<sentence en="He has just come home" ru="Он только что пришёл домой" />
+			<sentence en="He came home at 6 o'clock" ru="Он пришёл домой в 6 часов" />
+			<sentence en="Have you ever been to Kiev? - Yes, I have" ru="Ты когда-нибудь был в Киеве? - Да" />
+			<sentence en="When were you in Kiev? - I was there 2 days ago" ru="Когда ты был в Киеве? - Я там был 2 дня назад" />
+			<sentence en="My mother has not come yet" ru="Моя мама ещё не приехала" />
+			<sentence en="She did not come to school yesterday" ru="Вчера она не пришла в школу" />
+			<sentence en="I have never been to Moscow" ru="Я никогда не был в Москве" />
+			<sentence en="I got a letter the day before yesterday" ru="Я получил письмо позавчера" />
+			<sentence en="I have got a letter this week" ru="Я получил письмо на этой неделе" />
+			<sentence en="When were you in England?" ru="Когда вы были в Англии?" />
+			<sentence en="Have you ever been to England?" ru="Вы когда-нибудь были в Англии?" />
+			<sentence en="He has never been to England but he knows English well" ru="Он никогда не был в Англии, но он хорошо знает Английский язык" />
+			<sentence en="Have you ever heard this English song?" ru="Вы когда-нибудь слышали эту английскую песню?" />
+			<sentence en="Have you seen Mary lately? - No, I have not seen her since the New Year" ru="Вы видели Мэри в последнее время? - Я не видел её с Нового года" />
+			<sentence en="I have seen her twice this week" ru="Я видел её дважды на этой неделе" />
+			<sentence en="Where have you been? - I have been to the Institute" ru="Где ты был? - Я был в институте" />
+			<sentence en="Have you shut the window? - Yes, and I have locked the door" ru="Ты закрыл окно? - Да, я и запер дверь" />
+			<sentence en="I have not learnt my lesson today. The teacher has just given me a bad mark in English" ru="Я не выучил урок сегодня. Учительница только что поставила мне плохую оценку по английскому языку" />
+			<sentence en="Have you read this book? - Yes, I have" ru="Вы читали эту книгу? - Да" />
+			<sentence en="When did you read it? - I read it last month" ru="Когда вы прочли её? - Я прочёл её в прошлом месяце" />
+			<sentence en="Peter and Ann have not come to school today. They are absent" ru="Пётр и Анна не пришли в школу сегодня. Они отсутствуют" />
+			<sentence en="Peter and Ann did not come to school yesterday" ru="Вчера Пётр и Анна не пришли в школу" />
+		</chapter>				
+		
+		
+		<chapter ru="Past Perfect Tense, Future Perfect Tense" en="Past Perfect Tense, Future Perfect Tense">
+			<sentence en="I had already written a letter when my sister returned from work" ru="Я уже написал письмо, когда сестра вернулась с работы" />
+			<sentence en="I had written my letter by 6 o'clock" ru="Я написал письмо к 6 часам" />
+			<sentence en="He had not finished his work by 5 o'clock" ru="Он не закончил свою работу к 5 часам" />
+			<sentence en="After I had got a telegram, I went to meet her" ru="После того как я получил телеграмму, я поехал встречать её" />
+			<sentence en="She will have come by 6 o'clock" ru="Она придёт к 6 часам" />
+			<sentence en="She will come at 6 o'clock" ru="Она придёт в 6 часов" />
+			<sentence en="Had you done your homework before your parents came home?" ru="Ты сделал домашнее задание прежде, чем родители пришли домой?" />
+			<sentence en="Will you have done your homework before your parents come home?" ru="Ты сделаешь домашнее задание прежде, чем родители придут домой?" />
+			<sentence en="Have you done your homework? - Yes, I have" ru="Ты сделал домашнее задание? - Да" />
+			<sentence en="When did you do your homework? - I did it last evening" ru="Когда ты сделал домашнее задание? - Я сделал его прошлым вечером" />
+			<sentence en="He said that he had seen this film" ru="Он сказал, что видел этот фильм" />
+			<sentence en="After he had passed his exams he went to visit his parents" ru="После того, как он сдал экзамены, он поехал навестить родителей" />
+			<sentence en="When I came home, my wife had already cooked supper" ru="Когда я пришёл домой, моя жена уже приготовила ужин" />
+			<sentence en="Before she entered the University she had worked at the kindergarten" ru="Прежде чем она поступила в университет, она работала в детском саду" />
+			<sentence en="I hope you will not forget me" ru="Я надеюсь, вы не забудете меня" />
+			<sentence en="I hope you will not have forgotten me by the end of the year" ru="Я надеюсь, вы не забудете меня к концу года" />
+			<sentence en="He said that he had lived in London" ru="Он сказал, что жил в Лондоне" />
+			<sentence en="Who was the woman you were dancing with?" ru="Кто была женщина, с которой ты танцевал?" />
+			<sentence en="The book which you are reading was translated into Russian by my friend" ru="Книга, которую ты читаешь, была переведена на русский язык моим другом" />
+			<sentence en="The girl you were speaking with is our student" ru="Девушка, с которой ты разговаривал, - наша студентка" />
+			<sentence en="He said that he had seen my brother on Monday" ru="Он сказал, что видел моего брата в понедельник" />
+			<sentence en="Where are you going to? - I am going to the library" ru="Куда ты идёшь? - Я иду в библиотеку" />
+			<sentence en="Where were you going from when I saw you? - I was going from work" ru="Откуда ты шёл, когда я увидел тебя? - Я шёл с работы" />
+			<sentence en="We had come to the station before the train arrived" ru="Мы пришли на станцию до того, как прибыл поезд" />
+			<sentence en="We came to the station after the train had arrived" ru="Мы пришли на станцию после того, как прибыл поезд" />
+			<sentence en="They will come to the station at 10 o'clock" ru="Они приедут на станцию в 10 часов" />
+			<sentence en="They will have come to the station by 10 o'clock" ru="Они приедут на станцию к 10 часам" />
+			<sentence en="They will come to the station in 2 hours" ru="Они приедут на станцию через 2 часа" />
+		</chapter>		
+		
+		<chapter ru="Perfect Continuous" en="Perfect Continuous">
+			<sentence en="Hurry up! She is waiting for you" ru="Поторопись! Она ждёт тебя" />
+			<sentence en="She has been waiting for you for 2 hours" ru="Она ждёт тебя уже 2 часа" />
+			<sentence en="My sister lives in Kiev" ru="Моя сестра живёт в Киеве" />
+			<sentence en="My sister has been living in Kiev since 1990" ru="Моя сестра живёт в Киеве с 1990 года" />
+			<sentence en="I work at the University" ru="Я работаю в университете" />
+			<sentence en="I have been working at the University for 5 years" ru="Я работаю в университете 5 лет" />
+			<sentence en="Where do you live? - I live in Moscow" ru="Где вы живёте? - Я живу в Москве" />
+			<sentence en="How long you have been living in Moscow? - I have been living here for a year" ru="Как долго вы живёте в Москве? - Я живу здесь уже год" />
+			<sentence en="I had done my homework when my parents came from work" ru="Я сделал домашнее задание, когда родители пришли с работы" />
+			<sentence en="I had been doing my homework for an hour when my parents came from work" ru="Я делал домашнее задание уже час, когда родители пришли с работы" />
+			<sentence en="They have been living in this house for 10 years" ru="Они живут в этом доме 10 лет" />
+			<sentence en="By the end of the year they will have been living in this house for 10 years" ru="К концу года исполнится 10 лет, как они живут в этом доме" />
+			<sentence en="They were sitting on the platform when the train arrived" ru="Они сидели на платформе, когда прибыл поезд" />
+			<sentence en="They had been sitting on the platform for half an hour when the train arrived" ru="Они сидели на платформе полчаса, когда прибыл поезд" />
+			<sentence en="Do you read much? - Yes, I do. I read every day" ru="Ты много читаешь? - Да. Я читаю каждый день" />
+			<sentence en="What are you doing? - I am reading" ru="Что ты делаешь? - Я читаю" />
+			<sentence en="I read this book last year" ru="Я прочёл эту книгу в прошлом году" />
+			<sentence en="I was reading when they entered the room" ru="Я читал, когда они вошли в комнату" />
+			<sentence en="I shall read this book" ru="Я прочту это книгу" />
+			<sentence en="I shall be reading the whole evening tomorrow" ru="Я буду читать весь вечер завтра" />
+			<sentence en="I have read this book" ru="Я прочёл эту книгу" />
+			<sentence en="He said that he had read this book when he was a child" ru="Он сказал, что прочитал эту книгу, когда был ребёнком" />
+			<sentence en="I shall have read your report by Monday" ru="Я прочту ваш доклад к понедельнику" />
+			<sentence en="He has been reading a letter for half an hour" ru="Он читает письмо уже полчаса" />
+			<sentence en="She had been reading an article for half an hour when they came" ru="Она читала статью уже полчаса, когда они пришли" />
+			<sentence en="By the New Year he will have been reading this book for 2 years" ru="К Новому году исполнится 2 года, как он читает эту книгу" />
+			<sentence en="They were writing a composition when the headmaster entered the classroom" ru="Они писали сочинение, когда директор школы вошёл в класс" />
+			<sentence en="Do you often write letters? - Yes, I do. I write 2 or 3 letters a week" ru="Вы часто пишите письма? - Да. Я пишу 2 или 3 письма в неделю" />
+			<sentence en="They have already written a composition" ru="Они уже написали сочинение" />
+			<sentence en="I will write you a letter" ru="Я обязательно напишу вам письмо" />
+			<sentence en="I shall have written my report by Sunday" ru="Я напишу доклад к воскресенью" />
+			<sentence en="By the end of the year he will have been writing his thesis for 5 years" ru="К концу года исполнится 5 лет, как он пишет диссертацию" />
+			<sentence en="They have been writing a composition for 2 hours" ru="Они пишут сочинение уже 2 часа" />
+			<sentence en="They had been writing a composition for 2 hours when the headmaster entered the classroom" ru="Они писали сочинение уже 2 часа, когда директор школы вошёл в класс" />
+			<sentence en="What is she doing? - She is writing a composition" ru="Что она делает? - Она пишет сочинение" />
+			<sentence en="She said that she had already written a report" ru="Она сказала, что уже написала доклад" />
+			<sentence en="I shall be writing a report from 5 till 7 o'clock on Sunday" ru="Я буду писать доклад с 5 до 7 часов в воскресенье" />
+			<sentence en="He wrote a letter 2 days ago" ru="Он написал письмо 2 дня назад" />
+
+		</chapter>
+
+		<chapter ru="Passive Voice" en="Passive Voice">
+			<sentence en="I gave her an envelope an hour ago" ru="Я отдал ей конверт час тому назад" />
+			<sentence en="I was given an envelope an hour ago" ru="Мне отдали конверт час тому назад" />
+			<sentence en="He translated this play into Russian last year" ru="Он перевёл эту пьесу на русский язык в прошлом году" />
+			<sentence en="This play was translated into Russian last year" ru="Эта пьеса была переведена на русский язык в прошлом году" />
+			<sentence en="Glinka composed the opera &quot;Ivan Susanin&quot;" ru="Глинка сочинил оперу &quot;Иван Сусанин&quot;" />
+			<sentence en="The opera &quot;Ivan Susanin&quot; was composed by Glinka" ru="Опера &quot;Иван Сусанин&quot; была написана Глинкой " />
+			<sentence en="The doctor has examined him" ru="Доктор осмотрел его" />
+			<sentence en="He has been examined by the doctor" ru="Он был осмотрен доктором" />
+			<sentence en="Yesterday I invited many guests" ru="Вчера я пригласил много гостей" />
+			<sentence en="Yesterday I was invited to the party" ru="Вчера меня пригласили на вечеринку" />
+			<sentence en="We shall meet the delegation tomorrow" ru="Мы встретим делегацию завтра" />
+			<sentence en="The delegation will be meet tomorrow" ru="Делегацию встретят завтра" />
+			<sentence en="She is typing a letter" ru="Она печатает письмо" />
+			<sentence en="The letter is being typing" ru="Письмо печатают" />
+			<sentence en="He said that he had been to London" ru="Он сказал, что был в Лондоне" />
+			<sentence en="He was said that she had been to London" ru="Ему сказали, что она была в Лондоне" />
+			<sentence en="I helped her" ru="Я помог ей" />
+			<sentence en="I was helped" ru="Мне помогли" />
+			<sentence en="He is waiting for her" ru="Он ожидает её" />
+			<sentence en="He is being waited for" ru="Его ожидают" />
+			<sentence en="The article is not written yet" ru="Статья ещё не написана" />
+			<sentence en="When will the article be written?" ru="Когда будет написана статья?" />
+			<sentence en="I shall write an article myself" ru="Я напишу статью сам" />
+			<sentence en="She thinks too much of herself" ru="Она слишком много думает о себе" />
+			<sentence en="We saw it ourselves" ru="Мы сами это видели" />
+			<sentence en="I have bought this pen myself" ru="Я сам купил эту ручку" />
+			<sentence en="They have seen it themselves" ru="Они сами это видели" />
+			<sentence en="Can you give me a dictionary? - Sorry, I cannot. I need it myself" ru="Ты можешь дать мне словарь? - Извини, не могу. Он мне самому нужен" />
+			<sentence en="Either of these students knows English" ru="Каждый из этих студентов знает английский язык" />
+			<sentence en="Neither of these girls studies of our school" ru="Ни одна из девочек не учится в нашей школе" />
+			<sentence en="I like neither of the books" ru="Мне не нравится ни одна из этих книг" />
+			<sentence en="I do not like honey. Neither does my sister" ru="Я не люблю мёд. Моя сестра тоже" />
+			<sentence en="He is either Englishman or Frenchman" ru="Он или англичанин, или француз" />
+			<sentence en="She speaks neither English or French" ru="Она не говорит ни на английском, ни на французском" />
+			<sentence en="I like neither him nor his wife" ru="Мне не нравится ни он, ни его жена" />
+			<sentence en="The letter is written by my brother" ru="Письмо написано моим братом" />
+			<sentence en="The letter is written with a pen" ru="Письмо написано ручкой" />
+
+		</chapter>				
+		
+		<chapter ru="Sequence of Tenses" en="Sequence of Tenses">
+			<sentence en="He said that he lived in Paris" ru="Он сказал, что живёт в Париже" />
+			<sentence en="He said that he had lived in Paris" ru="Он сказал, что жил в Париже" />
+			<sentence en="He said that he would live in Paris" ru="Он сказал, что будет жить в Париже" />
+			<sentence en="He says that he reads all my articles" ru="Он говорит, что читает все мои статьи" />
+			<sentence en="He said that he read all my articles" ru="Он сказал, что читает все мои статьи" />
+			<sentence en="He said that he had read all my articles" ru="Он сказал, что прочитал все мои статьи" />
+			<sentence en="He said that he would read all my articles" ru="Он сказал, что прочитает все мои статьи" />
+			<sentence en="She writes many letters" ru="Она пишет много писем" />
+			<sentence en="I knew that she wrote many letters" ru="Я знал, что она пишет много писем" />
+			<sentence en="I knew that she had written him a letter" ru="Я знал, что она написала ему письмо" />
+			<sentence en="She promised that she would write him a letter" ru="Она пообещала, что напишет ему письмо" />
+			<sentence en="She promised that she would have written a report by Monday" ru="Она пообещала, что напишет доклад к понедельнику" />
+			<sentence en="I knew that she would be written her report in the library from 2 till 5" ru="Я знал, что она будет писать доклад в библиотеке с 2 до 5" />
+			<sentence en="I knew that they lived in Kiev" ru="Я знал, что они живут в Киеве" />
+			<sentence en="I knew that they had lived in Kiev" ru="Я знал, что они жили в Киеве" />
+			<sentence en="I did not know that they had been living in Kiev for 5 years" ru="Я не знал, что они жили в Киеве 5 лет" />
+			<sentence en="He said that he would live in Kiev" ru="Он сказал, что будет жить в Киеве" />
+			<sentence en="She says that she has a black cat" ru="Она говорит, что у неё есть чёрная кошка" />
+			<sentence en="She said that she had a black cat" ru="Она сказала, что у неё есть чёрная кошка" />
+			<sentence en="She said that she had had a black cat" ru="Она сказала, что у неё была чёрная кошка" />
+			<sentence en="He said &quot;I live in London.&quot; - He said that he lived in London" ru="Он сказал: &quot;Я живу в Лондоне&quot;. - Он сказал, что живёт в Лондоне" />
+			<sentence en="She said &quot;I can speak English.&quot; - She said that she could speak English" ru="Она сказала: &quot;Я умею говорить по-Английски&quot;. - Она сказала, что умеет говорить по-Английски" />
+			<sentence en="The woman asked: &quot;Do you speak English?&quot; - The woman asked if I spoke English" ru="Женщина спросила: &quot;Вы говорите по-Английски?&quot; - Женщина спросила, говорю ли я по-Английски" />
+			<sentence en="She asked: &quot;What language do you speak?&quot; - She asked what language I spoke" ru="Она спросила: &quot;На каком языке вы говорите?&quot; - Она спросила, на каком языке я говорю" />
+			<sentence en="She said to me: &quot;Speak English, please!&quot; - She asked me to speak English" ru="Она сказала мне: &quot;Говорите по-Английски, пожалуйста!&quot; - Она попросила меня говорить по-Английски" />
+			<sentence en="The teacher said: &quot;Do not talk in class.&quot; - The teacher asked not to talk in class" ru="Учитель сказал: &quot;Не разговаривайте в классе&quot;. - Учитель попросил не разговаривать в классе" />
+
+		</chapter>
+
+		<chapter ru="Причастия" en="Причастия">
+			<sentence en="Crossing the street I saw my friend" ru="Переходя улицу, я увидел своего друга" />
+			<sentence en="Having crossed the street, I saw my friend" ru="Перейдя улицу, я увидел своего друга" />
+			<sentence en="Reading his article I noticed some mistakes" ru="Читая его статью, я заметил несколько ошибок" />
+			<sentence en="Having read the book, I returned it to the library" ru="Прочитав книгу, я вернул её в библиотеку" />
+			<sentence en="Doing his homework he was listening to music" ru="Делая домашнее задание, он слушал музыку" />
+			<sentence en="Having done his homework, he went for a work" ru="Сделав домашнее задание, он пошёл гулять" />
+			<sentence en="While reading a fairy-tale he fell asleep" ru="Читая сказку, он уснул" />
+			<sentence en="Being read a fairy-tale he fell asleep" ru="Когда ему читали сказку, он уснул" />
+			<sentence en="Having read a fairy-tale, he put a book on the shelf" ru="Прочитав сказку, он поставил книгу на полку" />
+			<sentence en="Having been read a fairy-tale, he went to bad" ru="После того как ему прочитали сказку, он пошёл спать" />
+			<sentence en="Playing the piano she was looking at him" ru="Играя на пианино, она смотрела на него" />
+			<sentence en="Having played the piano, she rang him" ru="Поиграв на пианино, она позвонила ему" />
+			<sentence en="While showing their new house, they tried not to speak about it is price " ru="Показывая свой новый дом, они старались не говорить о его цене" />
+			<sentence en="Having shown their new house, they invited us to visit them" ru="Показав свой новый дом, они пригласили нас навестить их" />
+			<sentence en="Having been shown the new house, they decided to by it" ru="После того, как им показали новый дом, они решили купить его" />
+			<sentence en="Having given my pen, I began to write with a pencil" ru="Отдав свою ручку, я начал писать карандашом" />
+			<sentence en="Having been given a pen, I began to write" ru="После того как мне отдали ручку, я начал писать" />
+			<sentence en="Doing his morning exercises he was watching TV" ru="Делая зарядку, он смотрел телевизор" />
+			<sentence en="Having done his morning exercises he decided to take a shower" ru="Сделав зарядку, он решил принять душ" />
+			<sentence en="Not knowing grammar one cannot speak correctly" ru="Не зная грамматику, невозможно говорить правильно" />
+			<sentence en="Not having bought tickets in advance, we could not go to the performance" ru="Не купив билеты заранее, мы не смогли пойти на представление" />
+			<sentence en="The boy writing a letter is my son's classmate" ru="Мальчик, пишущий письмо, - одноклассник моего сына" />
+			<sentence en="The letter written by my friend was on the table" ru="Письмо, написанное моим другом, лежало на столе" />
+			<sentence en="Having written a letter i gave it to the postman" ru="Написав письмо, я отдал его почтальону" />
+			<sentence en="The teacher having come, the pupils began to write a dictation" ru="После того как учитель пришёл, ученики начали писать диктант" />
+			<sentence en="Having been given all the instructions, we began our work" ru="Получив все указания, мы начали работу" />
+			<sentence en="Our work having been finished, we left the office" ru="Наша работа была закончена, мы ушли из офиса" />
+			<sentence en="Translating the text he looked up into the dictionary" ru="Переводя текст, он заглядывал в словарь" />
+			<sentence en="Having translated the text he gave me his dictionary" ru="Переведя текст, он отдал мне свой словарь" />
+			<sentence en="The moon being bright, we could see the road" ru="Так как луна была яркой, мы могли видеть дорогу" />
+			<sentence en="The wort having been done, they went away" ru="Так как работа была сделана, они ушли" />
+
+		</chapter>			
+	</book>
+
+	
+	<book ru="Повседневные фразы" en="Повседневные фразы">
+	
+		<chapter ru="Общие" en="Общие">
+			<sentence en="Thank you" ru="Спасибо" />
+			<sentence en="Thank you very much" ru="Большое спасибо" />
+			<sentence en="You're welcome" ru="Пожалуйста" />
+			<sentence en="Here you are" ru="Вот, пожалуйста" />
+			<sentence en="I see" ru="Понимаю" />
+			<sentence en="All right" ru="Хорошо" />
+			<sentence en="That is all right" ru="Ничего" />
+			<sentence en="Never mind!" ru="Не бери в голову!" />
+			<sentence en="How far is it to the town?" ru="Как далеко от города?" />
+			<sentence en="How much does it cost" ru="Сколько это стоит?" />
+			<sentence en="How long?" ru="Как долго?" />
+			<sentence en="This way, please" ru="Сюда, пожалуйста" />
+			<sentence en="Whom should I ask?" ru="Кого спросить?" />
+			<sentence en="I do not understand" ru="Не понимаю" />
+			<sentence en="I am sorry, I did not catch you" ru="Извините, я не расслышал" />
+			<sentence en="After you" ru="После вас" />
+			<sentence en="There is a lot of traffic here" ru="Здесь сильное движение" />
+			<sentence en="I am lost" ru="Я заблудился" />
+		</chapter>
+		
+		<chapter ru="Приветствия" en="Приветствия">
+			<sentence en="Good morning!" ru="Доброе утро!" />
+			<sentence en="Good afternoon!" ru="Добрый день!" />
+			<sentence en="Good evening!" ru="Добрый вечер!" />
+			<sentence en="Good night" ru="Спокойной ночи" />
+			<sentence en="Hallo!" ru="Привет!" />
+			<sentence en="How do you do?" ru="Здравствуйте" />
+			<sentence en="I would like to meet you in the lobby" ru="Давайте встретимся в фойе" />
+			<sentence en="It is nice to meet you" ru="Приятно познакомиться" />
+			<sentence en="I am glad to see you again" ru="Рад Вас снова видеть" />
+			<sentence en="I am married" ru="Я женат" />
+			<sentence en="I am single" ru="Я холост" />
+			<sentence en="How are you?" ru="Как Ваши дела?" />
+			<sentence en="How are you getting along?" ru="Как успехи?" />
+			<sentence en="What's news?" ru="Какие новости?" />
+			<sentence en="Long time to see" ru="Давненько вас не видел" />
+			<sentence en="May I have your name?" ru="Можно узнать, как Вас зовут?" />
+			<sentence en="This is my business card" ru="Вот моя визитная карточка" />
+			<sentence en="May I introduce you to my husband" ru="Позвольте представить Вас моему мужу" />
+			<sentence en="Please give my kind regards to your mother" ru="Передавайте наилучшие пожелания от меня Вашей матери" />
+			<sentence en="Say hallo to Nick for me" ru="Передавай привет Николаю" />
+			<sentence en="With great pleasure, thank you" ru="Спасибо, с удовольствием" />
+			<sentence en="I am pleased to do so" ru="С удовольствием" />
+			<sentence en="Goodbye" ru="До свидания" />
+			<sentence en="See you later" ru="До встречи" />
+			<sentence en="See you soon" ru="До скорой встречи" />
+			<sentence en="Take care of yourself" ru="Счастливо" />
+			<sentence en="Let's keep in touch" ru="Не пропадайте" />
+			<sentence en="I am looking forward to seeing you again" ru="С нетерпением жду нашей следующей встречи" />
+
+			
+			
+		</chapter>	
+		
+		<chapter ru="Приглашения" en="Приглашения">
+
+			<sentence en="Will you be free tomorrow?" ru="Вы завтра свободны?" />
+			<sentence en="Would you like to come with me?" ru="Хотите пойти со мной?" />
+			<sentence en="Let me be your guide" ru="Позвольте мне быть Вашим гидом" />
+			<sentence en="Won't you go shopping with me?" ru="Пойдете со мной за покупками?" />
+			<sentence en="Let's go swimming" ru="Пойдемте купаться" />
+			<sentence en="Would you care for something to eat?" ru="Не хотите чего-нибудь поесть?" />
+			<sentence en="That sounds good" ru="Звучит неплохо" />
+			<sentence en="May I offer you a drink?" ru="Позвольте предложить вам что-нибудь выпить" />
+			<sentence en="How about a drink?" ru="Хотите чего-нибудь выпить?" />
+			<sentence en="Cheers!" ru="Ваше здоровье!" />
+			<sentence en="Let's take a coffee break" ru="Не пора ли попить кофейку?" />
+			<sentence en="I'd like another cup of coffee" ru="Еще чашечку кофе, пожалуйста" />
+			<sentence en="Make yourself at home" ru="Чувствуйте себя как дома" />
+			<sentence en="Let's go fifty-fifty on the bill" ru="Давайте платить пополам" />
+			<sentence en="He'll pay the bill" ru="Он платит счет" />
+
+			
+		</chapter>			
+		
+		<chapter ru="Комплименты" en="Комплименты">
+
+			<sentence en="Your new hairdo is not bad" ru="Мне нравится Ваша новая прическа" />
+			<sentence en="You have wonderful taste in clothes" ru="У Вас великолепный вкус в одежде" />
+			<sentence en="What a charming girl you are!" ru="Какая ты очаровательная девушка!" />
+			<sentence en="Thank you for your compliment" ru="Спасибо за комплимент." />
+			<sentence en="Thank you for a nice day" ru="Спасибо за прекрасный день" />
+			<sentence en="Thank you for picking me up" ru="Спасибо, что встретили меня" />
+			<sentence en="That's very kind of you" ru="Очень любезно с Вашей стороны" />
+			<sentence en="You are very generous" ru="Вы очень добры" />
+			<sentence en="I am really grateful to you" ru="Я очень Вам благодарен" />
+			<sentence en="Thank you for your trouble" ru="Спасибо и извините за беспокойство" />
+			<sentence en="Much obliged" ru="Весьма признателен" />
+			<sentence en="I am very much obliged to you" ru="Я очень Вам обязан" />
+			
+		</chapter>
+
+		<chapter ru="Извинения" en="Извинения">
+
+			<sentence en="Excuse me" ru="Извините" />
+			<sentence en="Excuse me a moment" ru="Извините, я на секунду" />
+			<sentence en="Just a minute please" ru="Подождите минуту, пожалуйста" />
+			<sentence en="That's my fault" ru="Это моя вина" />
+			<sentence en="It was careless of me" ru="Я был неосторожен" />
+			<sentence en="I didn't mean that" ru="Я не хотел Вас обидеть" />
+			<sentence en="Next time I'll get it right" ru="В следующий раз постараюсь" />
+			<sentence en="Forgive me for being late" ru="Извините за опоздание" />
+			<sentence en="I'm sorry to have kept you waiting" ru="Извините, что заставил Вас ждать" />
+			<sentence en="Am I disturbing you?" ru="Я не помешаю?" />
+			<sentence en="May I bother you a moment?" ru="Можно Вас побеспокоить на секунду?" />
+			<sentence en="Never mind" ru="Нет, ничего" />
+			<sentence en="Oh it's nothing" ru="Ничего, пожалуйста" />
+			<sentence en="Forget it" ru="Ничего" />
+
+			
+		</chapter>	
+		
+		<chapter ru="Просьбы" en="Просьбы">
+
+			<sentence en="I beg your pardon" ru="Простите" />
+			<sentence en="Say it once more please" ru="Повторите, пожалуйста" />
+			<sentence en="Please speak more slowly" ru="Пожалуйста, говорите немного медленнее" />
+			<sentence en="Please write it here" ru="Напишите это здесь, пожалуйста" />
+			<sentence en="Please hurry up" ru="Пожалуйста, поторопитесь" />
+			<sentence en="Come with me!" ru="Пойдемте со мной!" />
+			<sentence en="Please call a doctor" ru="Пожалуйста, вызовите врача" />
+			<sentence en="Can you lend me?" ru="Не одолжите?" />
+			<sentence en="Will you do me a favor?" ru="Сделайте одолжение" />
+			<sentence en="May I take a look at it?" ru="Можно взглянуть?" />
+			<sentence en="Can I borrow your pen?" ru="Можно одолжить Вашу ручку?" />
+			<sentence en="Would you please help me carry this?" ru="Помогите донести, пожалуйста" />
+			<sentence en="Could you give me a hand with these parcels?" ru="Пожалуйста, помогите мне с этими пакетами" />
+			<sentence en="Will you please mail this letter for me?" ru="Не отправите ли за меня письмо?" />
+			<sentence en="Will you help me with this problem?" ru="Помогите мне с этой проблемой" />
+			<sentence en="May I have your address?" ru="Можно узнать Ваш адрес?" />
+			<sentence en="Could you drop me downtown, please?" ru="Не подбросите до центра?" />
+			<sentence en="What's this?" ru="Что это?" />
+			<sentence en="What does this mean?" ru="Что это значит?" />
+			<sentence en="Where is the restroom?" ru="Где туалет?" />
+			<sentence en="Why not?" ru="Почему бы и нет?" />
+			<sentence en="The sooner the better" ru="Чем скорее, тем лучше" />
+
+			
+		</chapter>	
+
+				<chapter ru="Чувства" en="Чувства">
+
+			<sentence en="I'm not sure" ru="Я не уверен" />
+			<sentence en="I don't think so" ru="Не думаю" />
+			<sentence en="I'm afraid not" ru="Боюсь, что нет" />
+			<sentence en="t's incredible" ru="Невероятно" />
+			<sentence en="I'm afraid you're mistaken" ru="Боюсь, что Вы ошиблись" />
+			<sentence en="That's too bad" ru="О, как жаль" />
+			<sentence en="I feel blue" ru="У меня плохое настроение" />
+			<sentence en="It's disgusting" ru="Это отвратительно" />
+			<sentence en="You make me sick" ru="Меня от тебя тошнит" />
+			<sentence en="Calm down, everything will be OK" ru="Успокойся, все будет в порядке" />
+			<sentence en="Don't be nervous" ru="Не надо нервничать" />
+			<sentence en="Take your time" ru="Не торопитесь" />
+			<sentence en="Don't bother with what he said" ru="Не обращай внимания на то, что он сказал" />
+			<sentence en="Cool it!" ru="Остыньте!" />
+			<sentence en="Cheer up!" ru="Не унывайте!" />
+			<sentence en="What a pity!" ru="Какая жалость!" />
+			<sentence en="What a surprise!" ru="Вот так сюрприз!" />
+			<sentence en="You must be kidding!" ru="Вы, должно быть, шутите!" />
+			<sentence en="Oh dear what a mess!" ru="О боже, какой кошмар!" />
+
+			
+		</chapter>	
+		
+		<chapter ru="Время" en="Время">
+
+			<sentence en="What time is it?" ru="Который час?" />
+			<sentence en="What time do you have?" ru="Сколько времени?" />
+			<sentence en="It's seven o'clock" ru="Семь часов" />
+			<sentence en="It's a quarter to eight" ru="Без четверти восемь" />
+			<sentence en="It's ten minutes past four" ru="Десять минут пятого" />
+			<sentence en="It's half past eight" ru="Полдевятого" />
+			<sentence en="It's early" ru="Рано" />
+			<sentence en="Is it late?" ru="Уже поздно?" />
+			<sentence en="How long will it take to walk over there?" ru="Сколько времени идти туда пешком?" />
+
+			
+		</chapter>			
+		
+		
+		<chapter ru="Пожелания" en="Пожелания">
+
+			<sentence en="Congratulations!" ru="Поздравляю!" />
+			<sentence en="Best wishes for your birthday!" ru="Поздравляю с днем рождения!" />
+			<sentence en="Merry Christmas!" ru="С рождеством!" />
+			<sentence en="Best wishes for a Happy New Year!" ru="Наилучшие пожелания в новом году!" />
+			<sentence en="Happy many returns of the day!" ru="Желаю счастья сегодня и всегда!" />
+			<sentence en="Happy Easter!" ru="Христос воскрес!" />
+			<sentence en="I wish you many years of happiness" ru="Желаю Вам счастья и многих лет жизни" />
+			<sentence en="Heartiest congratulations" ru="Поздравляю от всей души" />
+			<sentence en="I hope you'll get better soon" ru="Желаю Вам поскорее выздороветь" />
+			<sentence en="Have a nice trip!" ru="Счастливой поездки!" />
+			<sentence en="Good luck" ru="Удачи!" />
+			<sentence en="Let's meet again!" ru="Давай еще раз встретимся!" />
+
+			
+		</chapter>	
+
+		<chapter ru="Погода" en="Погода">
+
+			<sentence en="What a nice day!" ru="Какой чудесный день!" />
+			<sentence en="It's hot" ru="Жарко" />
+			<sentence en="It's getting foggy" ru="Опускается туман" />
+			<sentence en="The sky is clearing up" ru="Небо расчищается" />
+			<sentence en="It will be sunny tomorrow" ru="Завтра будет солнечно" />
+			<sentence en="What a nasty day!" ru="Какой ужасный день!" />
+			<sentence en="I wonder if there will be a storm?" ru="Интересно, будет гроза?" />
+			<sentence en="What do you think the weather looks like?" ru="Какая, по-вашему, будет погода?" />
+
+			
+		</chapter>	
+		
+		
+	</book>	
+	
+	<book ru="Путешествия" en="Путешествия">
+	
+		<chapter ru="Заказ билетов" en="Заказ билетов">
+
+			<sentence en="Is that a direct flight?" ru="Это прямой рейс?" />
+			<sentence en="Does the flight land somewhere before the final destination?" ru="В этом рейсе есть промежуточные посадки?" />
+			<sentence en="What flights are there to London?" ru="Какие есть рейсы до Лондона?" />
+			<sentence en="Please check other airlines" ru="Пожалуйста, проверьте в других компаниях" />
+			<sentence en="Would you please check whether there is room on the flight?" ru="Не могли бы Вы уточнить, есть ли билеты на этот рейс?" />
+			<sentence en="How frequent are the flights?" ru="Сколько рейсов в день?" />
+			<sentence en="How early must I be at the airport?" ru="Когда мне нужно быть в аэропорту?" />
+			<sentence en="How much luggage am I allowed to take?" ru="Сколько мне можно брать багажа?" />
+			<sentence en="I don't have luggage" ru="У меня нет багажа" />
+			<sentence en="How much is the ticket?" ru="Сколько стоит билет?" />
+			<sentence en="Is there any discount?" ru="Есть ли какие-нибудь скидки?" />
+			<sentence en="Please reserve the next flight to London" ru="Забронируйте место на ближайший рейс до Лондона, пожалуйста" />
+			<sentence en="One business class ticket to London" ru="Один билет до Лондона, бизнес-класс" />
+			<sentence en="I would like to cancel my ticket to Warsaw" ru="Я хотел бы вернуть свой билет до Варшавы" />
+			<sentence en="Cancel this reservation, please" ru="Снимите этот заказ, пожалуйста" />
+			<sentence en="I'd like to reconfirm a reservation" ru="Я хотел бы подтвердить заказ" />
+			<sentence en="I want to change my reservation" ru="Я хочу изменить заказ" />
+
+		</chapter>
+		
+		<chapter ru="Регистрация" en="Регистрация">
+
+			<sentence en="Where is the Finnair counter?" ru="Где стойка Финнэйр?" />
+			<sentence en="Where is the airport terminal?" ru="Где здание аэропорта?" />
+			<sentence en="Where do I check in?" ru="Где проходит регистрация?" />
+			<sentence en="Address the luggage to my hotel" ru="Отправьте багаж в мою гостиницу" />
+			<sentence en="How much is the excess baggage charge?" ru="Сколько нужно платить за лишний вес?" />
+			<sentence en="I'd like to send this baggage to Paris" ru="Я хотел бы отправить этот багаж в Париж" />
+			<sentence en="I'm in transit for Los Angeles" ru="Я транзитом до Лос-Анжелеса" />
+			<sentence en="When is boarding time?" ru="Когда посадка?" />
+			<sentence en="What is the gate number?" ru="На какой выход?" />
+			<sentence en="Will this flight leave on time?" ru="Этот рейс отправится вовремя?" />
+			<sentence en="I would like to reserve a seat in the non-smoking section" ru="Я хотел бы забронировать место в салоне для некурящих" />
+			<sentence en="Window seat, please" ru="Место у окна, пожалуйст" />
+
+		</chapter>	
+
+		<chapter ru="В самолете" en="В самолете">
+
+			<sentence en="Where is this seat?" ru="Где это место?" />
+			<sentence en="Could I change seats with you?" ru="Не могли бы Вы поменяться со мной местами?" />
+			<sentence en="Do you have an English newspaper?" ru="У Вас есть английская газета?" />
+			<sentence en="Would you please get me a blanket?" ru="Не могли бы Вы принести мне одеяло?" />
+			<sentence en="Could you give me a pillow, please?" ru="Принесите подушку, пожалуйста" />
+			<sentence en="Can I have another drink?" ru="Можно еще один напиток?" />
+			<sentence en="Can I have more nuts?" ru="Можно еще орехов?" />
+			<sentence en="I want to order some drinks" ru="Я хотел бы заказать напитки" />
+			<sentence en="Tea, please" ru="Чай, пожалуйста" />
+			<sentence en="Is there a French - speaking stewardess on board?" ru="Есть ли на борту стюардесса, говорящая по-французски?" />
+			<sentence en="Is there a stewardess on board who can speak English?" ru="Есть ли на борту стюардесса, говорящая по-английски?" />
+			<sentence en="Can you translate it into English?" ru="Вы можете перевести это на английский?" />
+			<sentence en="Please don't smoke here" ru="Пожалуйста, не курите здесь" />
+			<sentence en="How long will it be delayed?" ru="На сколько отложен рейс?" />
+			<sentence en="How long will we stop here?" ru="Надолго мы здесь остановились?" />
+			<sentence en="I feel sick" ru="Мне плохо" />
+			<sentence en="May I recline my seat?" ru="Можно мне откинуть спинку?" />
+			<sentence en="Do they sell duty-free goods on board?" ru="Можно в самолете купить что-нибудь без пошлины?" />
+			<sentence en="I would like some earphones for the movie" ru="Мне нужны для кино наушники" />
+			<sentence en="It doesn't work" ru="Это не работает" />
+			<sentence en="What time do we arrive?" ru="Когда мы прибываем?" />
+
+		</chapter>	
+
+		<chapter ru="Таможня" en="Таможня">
+
+			<sentence en="May I have another customs form?" ru="Дайте мне, пожалуйста, другой бланк декларации" />
+			<sentence en="Please show me how to fill in the form" ru="Покажите, пожалуйста, как заполнять это форму" />
+			<sentence en="Here's my passport" ru="Вот мой паспорт" />
+			<sentence en="Would you please stamp my passport?" ru="Поставьте мне, пожалуйста, штамп в паспорт" />
+			<sentence en="What is the purpose of your visit?" ru="Какова цель Вашей поездки?" />
+			<sentence en="I'm a tourist" ru="Я турист" />
+			<sentence en="I am on vacation" ru="Я в отпуске" />
+			<sentence en="I am on a business trip" ru="Я в командировке" />
+			<sentence en="This is my first visit" ru="Это мой первый приезд" />
+			<sentence en="How long will you stay here?" ru="Как долго Вы здесь пробудите?" />
+			<sentence en="I plan to stay two weeks" ru="Я собираюсь пробыть здесь две недели" />
+			<sentence en="This is my transit pass" ru="Вот моя транзитная виза" />
+			<sentence en="I only have articles for personal use" ru="У меня только предметы личного пользования" />
+			<sentence en="This is a gift for a friend" ru="Это подарок для друга" />
+			<sentence en="This video camera is for my personal use" ru="Эта видеокамера для моего личного пользования" />
+			<sentence en="It costs about" ru="Это стоит около" />
+			<sentence en="I have nothing to declare" ru="Мне нечего декларировать" />
+			<sentence en="Duty-free shop" ru="Беспошлинный магазин" />
+			<sentence en="Can we do some shopping in this airport?" ru="Можно в этом аэропорту что-нибудь купить?" />
+			<sentence en="Do I have to pay duty on the camera I bought here?" ru="Мне нужно будет платить пошлину за камеру, которую я здесь купил?" />
+			<sentence en="May I have a receipt?" ru="Можно попросить чек?" />
+
+		</chapter>	
+
+		<chapter ru="Багаж" en="Багаж">
+
+			<sentence en="Where can I get my baggage?" ru="Где можно получить багаж?" />
+			<sentence en="Here is my claim tag" ru="Вот моя багажная квитанция" />
+			<sentence en="I can't find my baggage" ru="Я не могу найти свой багаж" />
+			<sentence en="I didn't receive the claim tag when I checked in" ru="Мне не выдали багажную квитанцию при регистрации" />
+			<sentence en="My baggage is broken, and some things are missing" ru="Мой багаж поврежден, и некоторых вещей не хватает" />
+			<sentence en="Where can I find a porter?" ru="Где можно найти носильщика?" />
+			<sentence en="This is my baggage" ru="Это мой багаж" />
+			<sentence en="Please take this baggage to the taxi stand" ru="Пожалуйста, отнесите эти вещи к стоянке такси" />
+			<sentence en="It's fragile" ru="В багаже есть хрупкие предметы" />
+			<sentence en="Please becareful carrying it" ru="Будьте осторожны, пожалуйста" />
+			<sentence en="May I use this baggage cart?" ru="Можно взять эту багажную тележку" />
+
+		</chapter>	
+
+		<chapter ru="Информация" en="Информация">
+
+			<sentence en="Where is the tourist information office?" ru="Где находится информационное бюро?" />
+			<sentence en="I am a transit passenger to San Francisco" ru="Я транзитный пассажир до Сан–Франциско" />
+			<sentence en="Can I make a connection on the same day?" ru="Я успею сделать пересадку в тот же день?" />
+			<sentence en="How long does it take to make a connection?" ru="Сколько нужно времени на пересадку?" />
+			<sentence en="Can I reserve a hotel room here?" ru="Можно мне заказать номер в гостиницу?" />
+			<sentence en="Where can I catch the shuttle bus?" ru="Где я могу сесть на автобус в город?" />
+
+		</chapter>			
+	
+	</book>		
+</books>
+

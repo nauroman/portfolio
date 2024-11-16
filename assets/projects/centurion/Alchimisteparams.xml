@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<game name='Alchimiste'>
+ <params>
+   <param name='mode'>easy</param>
+   <param name='sound'>true</param>
+ </params>
+</game>
+</xml>

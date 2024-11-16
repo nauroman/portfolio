@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<game name='animals'>
+ <params>
+   <param name='pseudo'>Roman</param>
+   <param name='mode'>easy</param>
+   <param name='max_animals'>5</param>
+   <param name='max_trees'>4</param>
+   <param name='level_time'>90</param>
+   <param name='level_score'>100</param>
+   <param name='reload_time'>15</param>
+   <param name='dog_points'>5</param>
+   <param name='rabbit_points'>3</param>
+   <param name='cocke_points'>3</param>
+   <param name='bird_points'>5</param>
+   <param name='mole_points'>2</param>
+   <param name='mushroom_good_points'>10</param>
+   <param name='mushroom_evil_points'>-10</param>
+   <param name='bullet_chicken_points'>0</param>
+   <param name='dog_health'>3</param>
+   <param name='rabbit_health'>2</param>
+   <param name='cocke_health'>1</param>
+   <param name='bird_health'>1</param>
+   <param name='mushroom_good_health'>1</param>
+   <param name='mushroom_evil_health'>1</param>
+   <param name='mole_health'>1</param>
+   <param name='bullet_chicken_health'>1</param>
+   <param name='target_size_x'>100</param>
+   <param name='target_size_y'>160</param>
+ </params>
+</game>
+</xml>
